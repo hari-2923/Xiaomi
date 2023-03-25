@@ -1,0 +1,508 @@
+body{
+    margin: 0;
+    font-family: Poppins;
+}
+
+.header-1{
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 16px;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    width: 1440px;
+}
+
+.navigation-logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 25px;
+}
+
+
+
+.navigation-menu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 550px;
+}
+
+.navigation-separator{
+    width: 460px;
+}
+
+.navigation-menu-2{
+    width: 183px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.navigation-menu-3{
+    width: 156px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 8px;
+    padding-right: 15px;
+}
+
+.tv-1{
+    width: 1440px;
+    height: 450px;
+}
+
+.phone-1{
+    width: 1440px;
+    height: 450px;
+}
+
+.page-3{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.lap-powerbank{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.powerbank{
+    width: 340px;
+    height: 444px;
+   
+}
+
+.site-banner-info{
+    font-size: 22px;
+    font-weight: 300;
+    position: absolute;
+    padding-top: 130px;
+    padding-left: 230px;
+}
+
+.buy-now{
+    font-size: 17.58px;
+    color: white;
+    border-style: solid;
+    background-color: rgb(25, 25, 25);
+    border-width: 1px;
+    padding-top: 7px;
+    padding-left: 24px;
+    padding-bottom: 7px;
+    padding-right: 24px;
+    border-radius: 15px;
+}
+
+.learn-more{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.site-banner-actions{
+    color: rgb(25, 25, 25);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.site-goods-info{
+    position: absolute;
+    color: white;
+    text-align: center;
+    margin-right: 725px;
+    margin-top: 55px;
+}
+
+.site-goods-title{
+    font-size: 32px;
+    line-height: 35px;
+    margin-bottom: 20px;
+}
+
+.button-text{
+    font-size: 16px;
+}
+
+.site-goods-info-2{
+    position: absolute;
+    padding-left: 690px;
+    padding-top: 60px;
+}
+
+.site-goods-title-2{
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.button-text-2{
+    color: rgb(255, 105, 0);
+    font-size: 16px;
+    padding-left: 160px;
+}
+
+.page-4{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 8px;
+}
+
+.site-stud-plus{
+    margin-left: 5px;
+}
+
+.stud-plus{
+    width: 696px;
+    height: 443.99px;
+}
+
+.laps-tabs{
+    width: 340px;
+    height: 443.99px;
+}
+
+.power-charger{
+    width: 256px;
+    height: 256px;
+}
+
+.site-lap-powerbank{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 20px;
+}
+
+.powerbanks{
+    width: 340px;
+    height: 443.99px;
+    background-color: rgb(255, 255, 255);
+}
+
+.power-charger{
+    padding-left: 50px;
+    padding-top: 175px;
+    margin-left: 10px;
+}
+
+.stud-plus-info{
+    color: white;
+    position: absolute;
+    text-align: center;
+    padding-right: 700px;
+    padding-top: 20px;
+}
+
+.stud-plus-title{
+    font-size: 32px;
+    margin-bottom: 1px;
+}
+
+.stud-plus-subtitle{
+    font-size: 16px;
+    margin-top: 1px;
+}
+
+.site-event-info{
+    color: white;
+    position: absolute;
+    text-align: center;
+    padding-right: 330px;
+    padding-top: 15px;
+}
+
+.site-event-title{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 70px;
+}
+
+.dailypick-info{
+    color: black;
+    position: absolute;
+    text-align: center;
+    padding-left: 380px;
+}
+
+.dailypick-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.prime-spec{
+    text-align: center;
+    padding-right: 220px;
+    padding-top: 55px;
+}
+
+.site-slide-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.site-slide{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 55px;
+}
+
+.prime-11{
+    padding-left: 63px;
+}
+
+.gt-lt{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.xiaomi-care{
+    background-color: white;
+    width: 664px;
+    height: 475px;
+    margin-top: 55px;
+    margin-bottom: 25px;
+}
+
+.mi-logos-short{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 16px
+}
+
+.care-title{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 95px
+}
+
+.extend-warranty{
+    margin-right: 70px;
+    margin-left: 35px;
+}
+
+.screen-protect{
+    margin-right: 70px;
+}
+
+.complete-protect{
+    margin-right: 20px;
+}
+
+.xiaomi-care-grid{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(249, 249, 249);
+}
+
+.service-centre{
+    text-align: center;
+    height: 239px;
+    background-color: white;
+}
+
+.service-title{
+    font-size: 32px;
+    font-weight: 500;
+    padding-top: 55px;
+}
+
+.mi-exchange{
+    text-align: center;
+    background-color: white;
+    width: 664px;
+    height: 200px;
+}
+
+.exchange-title{
+    font-size: 32px;
+    font-weight: 500;
+    padding-top: 50px;
+}
+
+.site-footer{
+    padding-top: 64px;
+}
+
+.site-container{
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.site-footer-main{
+   display: flex;
+   justify-content: space-between;
+   line-height: 19.2px;
+}
+
+.site-footer-nav{
+    display: flex;
+    max-width: 1008px;
+    text-size-adjust: 100%;
+    flex-grow: 1;
+    font-weight: 400;
+    width: 1008px;
+    margin-inline-end: 50px;
+}
+
+.nav-column{
+    flex-basis: 0%;
+    flex-grow: 1;
+    flex-shrink: 1;
+    line-height: 19.2px;
+    margin-inline-end: 16px;
+    text-size-adjust: 100%;
+}
+
+.column-section{
+    font-weight: 400;
+    line-height: 19.2px;
+    margin-bottom: 0px;
+    text-size-adjust: 100%;
+}
+
+.site-footer-title-column-section{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-block-end: 16px;
+    margin-bottom: 16px;
+    color: white;
+}
+
+.column-section-list{
+    font-weight: 400;
+    line-height: 19.2px;
+    list-style-type: disc;
+    padding-left: 1px;
+    color: rgb(174, 167, 167);
+}
+
+.column-section-item{
+    display: list-item;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    margin-bottom: 16px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: left;
+    text-size-adjust: 100%;
+}
+
+.site-footer-aside{
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+    line-height: 19.2px;
+    min-width: 316px;
+    text-size-adjust: 100%;
+    width: 316px;
+}
+
+.site-footer-follow{
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    line-height: 19.2px;
+    margin-bottom: 24px;
+    text-size-adjust: 100%;
+}
+
+.site-footer-title{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-block-end: 16px;
+    margin-bottom: 16px;
+    text-size-adjust: 100%;
+}
+
+.site-footer-follow-list{
+    color: rgb(255, 255, 255);
+    display: flex;
+    font-weight: 400;
+    line-height: 19.2px;
+    list-style-type: none;
+    padding-left: 2px;
+}
+
+.site-app-playstore{
+    display: flex;
+    align-items: end;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
+.site-footer-app-wrapper{
+    display: flex;
+    align-items: center;
+    border-style: solid;
+    border-radius: 1.5px;
+    border-color: white;
+    border-radius: 10px;
+}
+
+.app-mi-content{
+    padding-left: 15px;
+}
+
+.app-mi-content-title{
+    font-size: 16px;
+}
+
+.site-footer-form{
+    display: flex;
+    align-items: center;
+}
+
+.app-mi-content-content{
+    font-size: 14px;
+    color: rgb(137, 137, 137);
+}
+
+.site-footer-app{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: white;
+}
+
+.site-footer-connect{
+    margin-bottom: 25px;
+}
+
+.site-footer-footer{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 48px;
+    padding-top: 12px;
+    padding-bottom: 24px;
+    border-style: solid;
+    border-left: 1px;
+    border-color: white;
+    border-right-color: black;
+    border-bottom-color: black;
+}
+
+.site-footer-locale{
+    display: flex;
+    align-items: center;
+}
